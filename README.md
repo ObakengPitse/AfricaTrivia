@@ -1,0 +1,2 @@
+# AfricaTrivia
+Quiz about africa
