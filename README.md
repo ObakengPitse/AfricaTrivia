@@ -1,2 +1,2 @@
-# AfricaTrivia
-Quiz about africa
+# Trivia Game
+Quiz about general knowledge
